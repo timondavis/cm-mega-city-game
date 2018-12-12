@@ -1,1 +1,4 @@
-console.log('hello world');
+import { Initializer } from "./Initializer";
+export {
+    Initializer
+}
